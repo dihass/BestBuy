@@ -1,0 +1,137 @@
+{
+	"properties": [
+		{
+			"id": "prop1",
+			"type": "Hotel",
+			"bedrooms": 10,
+			"price": 8000000,
+			"tenure": "Freehold",
+			"description": "Luxurious hotel with 10 bedrooms and stunning amenities. Situated within 0.5 miles of Petts Wood station with fast trains to London. Easy walking distance to local shops, schools, bus routes, and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room, and conservatory. Additional features include double glazing, gas central heating, and a well-presented interior...",
+			"location": "Petts Wood Road, Petts Wood, Orpington",
+			"picture": "./images/Prop1/img1.webp", 
+			"pictures": ["./images/Prop1/img1.webp","./images/Prop1/img2.webp", "./images/Prop1/img3.webp", "./images/Prop1/img4.webp","images/Prop1/img5.webp","./images/Prop1/img6.webp","./images/Prop1/img7.webp"],
+			"floorplan": "./images/floorplans/prop1.webp",
+			"url": "properties/prop1.html",
+			"locationparams": {"latitude": 51.3889, "longitude": 0.0741},
+			"added": {
+				"month": "June",
+				"day": 25,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop2",
+			"type": "Flat",
+			"bedrooms": 2,
+			"price": 429995,
+			"tenure": "Freehold",
+			"description": "Modern two double bedroom, two bathroom garden flat. The open-plan kitchen is integrated with solid wooden floors in the living room, including a dishwasher & a washing machine. Bi-folding doors lead to a secluded private courtyard garden. Both bedrooms are double-sized, and the family bathroom boasts a matching three-piece suite. Separate wet room included. Under a 10-year building guarantee...",
+			"location": "Crofton Road Orpington BR6",
+			"picture": "./images/Prop2/img1.webp",
+			"pictures": ["./images/Prop2/img1.webp","./images/Prop2/img2.jpg","./images/Prop2/img3.jpg","./images/Prop2/img4.webp","./images/Prop2/img5.webp","./images/Prop2/img6.jpg","./images/Prop2/img7.jpg"],
+			"floorplan": "./images/floorplans/prop2.webp",
+			"url": "properties/prop2.html",
+			"locationparams": {"latitude": 51.3920, "longitude": 0.1080},
+			"added": {
+				"month": "August",
+				"day": 18,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop3",
+			"type": "Villa House",
+			"bedrooms": 1,
+			"price": 320000,
+			"tenure": "Leasehold",
+			"description": "Stylish one-bedroom apartment in the heart of the city. Modern kitchen, spacious living room, and contemporary bathroom. Walking distance to public transportation, shopping centers, and entertainment venues. Ideal for urban living.",
+			"location": "City Center, Metropolis",
+			"picture": "./images/Prop3/img1.webp",
+			"pictures": ["./images/Prop3/img1.webp","./images/Prop3/img2.webp","./images/Prop3/img3.webp","./images/Prop3/img4.webp","./images/Prop3/img5.webp","./images/Prop3/img6.webp","./images/Prop3/img7.webp"],
+			"floorplan": "./images/floorplans/prop3.webp",
+			"url": "properties/prop3.html",
+			"locationparams": {"latitude": 51.5074, "longitude": -0.1278},
+			"added": {
+				"month": "November",
+				"day": 5,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop4",
+			"type": "House",
+			"bedrooms": 4,
+			"price": 1050000,
+			"tenure": "Freehold",
+			"description": "Spacious four-bedroom family home with a large backyard and garden. Modern kitchen, multiple living areas, and a master bedroom with an ensuite bathroom. Conveniently located near schools, parks, and shopping centers.",
+			"location": "Green Meadows, Suburbia",
+			"picture": "./images/Prop4/img1.webp",
+			"pictures": ["./images/Prop4/img1.webp","./images/Prop4/img2.webp","./images/Prop4/img3.webp","./images/Prop4/img4.webp","./images/Prop4/img5.webp","./images/Prop4/img6.webp","./images/Prop4/img7.webp"],
+			"floorplan": "./images/floorplans/prop4.webp",
+			"url": "properties/prop4.html",
+			"locationparams": {"latitude": 51.4316, "longitude": -0.4660},
+			"added": {
+				"month": "December",
+				"day": 18,
+				"year": 2023
+			}
+		},
+		{
+			"id": "prop5",
+			"type": "Flat",
+			"bedrooms": 2,
+			"price": 590000,
+			"tenure": "Leasehold",
+			"description": "Modern two-bedroom flat with panoramic city views. Open-plan kitchen, spacious living room, and contemporary finishes. Building amenities include a fitness center and a rooftop terrace. Close to public transportation and trendy dining options.",
+			"location": "Highrise Towers, Downtown",
+			"picture":"./images/Prop5/img1.webp",
+			"pictures": ["./images/Prop5/img1.webp","./images/Prop5/img2.webp","./images/Prop5/img3.webp","./images/Prop5/img4.webp","./images/Prop5/img5.webp","./images/Prop5/img6.webp","./images/Prop5/img7.webp"],
+			"floorplan": "./images/floorplans/prop5.webp",
+			"url": "properties/prop5.html",
+			"locationparams": {"latitude": 40.7128, "longitude": -74.0060},
+			"added": {
+				"month": "January",
+				"day": 8,
+				"year": 2024
+			}
+		},
+		{
+			"id": "prop6",
+			"type": "Townhouse",
+			"bedrooms": 3,
+			"price": 720000,
+			"tenure": "Freehold",
+			"description": "Elegant three-bedroom townhouse with classic architecture and modern interiors. Gourmet kitchen, private courtyard, and a master suite with a walk-in closet. Located in a quiet neighborhood with easy access to schools and parks.",
+			"location": "Maple Lane, Suburbia",
+			"picture": "./images/Prop6/img1.webp",
+			"pictures": ["./images/Prop6/img1.webp","./images/Prop6/img2.webp","./images/Prop6/img3.webp","./images/Prop6/img4.webp","./images/Prop6/img5.webp","./images/Prop6/img6.webp","./images/Prop6/img7.webp"],
+			"floorplan": "./images/floorplans/prop6.webp",
+			"url": "properties/prop6.html",
+			"locationparams": {"latitude": 51.3762, "longitude": 0.0982},
+			"added": {
+				"month": "March",
+				"day": 22,
+				"year": 2024
+			}
+		},
+		{
+			"id": "prop7",
+			"type": "Penthouse",
+			"bedrooms": 3,
+			"price": 1350000,
+			"tenure": "Leasehold",
+			"description": "Luxurious three-bedroom penthouse with breathtaking skyline views. High-end finishes, a private terrace, and exclusive access to building amenities, including a spa and concierge services. Prime location in the city center.",
+			"location": "Skyline Plaza, Metropolis",
+			"picture": "./images/Prop7/img1.webp",
+			"pictures": ["./images/Prop7/img1.webp","./images/Prop7/img2.webp","./images/Prop7/img3.webp","./images/Prop7/img4.webp","./images/Prop7/img5.webp","./images/Prop7/img6.webp","./images/Prop7/img7.webp"],
+			"floorplan": "./images/floorplans/prop7.webp",
+			"url": "properties/prop7.html",
+			"locationparams": {"latitude": 37.7749, "longitude": -122.4194},
+			"added": {
+				"month": "April",
+				"day": 5,
+				"year": 2024
+			}
+		}
+	]
+}

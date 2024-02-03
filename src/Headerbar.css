@@ -1,0 +1,125 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    max-width: 100vw;
+    color: black;
+}
+.main {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    max-width: 100vw;
+    height: 2px;
+    margin-bottom: 70px;
+}
+.headerbar-main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    width: 100vw;
+    background-color: white;
+}
+.headerbar-main h2{
+    font-size: 30px;
+}
+
+.headerbar-main-searchbox {
+    display: flex;
+    flex-direction: row;
+}
+
+.headerbar-main-searchbox-component {
+    padding: 20px;
+    margin: 0px 20px;
+    margin-top: 2px;
+    width: 230px;
+    height: 20px;
+    background-color: whitesmoke;
+    color: black;
+    box-sizing: border-box;
+    border: black 1px solid ;
+}
+
+.search-buttonset {
+    margin-top: 5px;
+}
+
+.main {
+    max-width: 100vw;
+}
+
+.logo-headerbar {
+    width: 50px;
+
+}
+
+.headerbar-main-searchbox input {
+    border-radius: 20px;
+}
+
+.headerbar-main-searchbox {
+    margin-right: 50px;
+}
+
+
+
+
+.search-buttonset > button {
+  appearance: none;
+  background-color: rgb(246, 52, 52);
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  padding: 6px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+
+  vertical-align: middle;
+  white-space: nowrap;
+  margin-left: 10px;
+}
+
+.search-buttonset > button:focus:not(:focus-visible):not(.focus-visible) {
+  box-shadow: none;
+  outline: none;
+}
+
+.search-buttonset > button:hover {
+  background-color: orange;
+}
+.search-buttonset > button:active {
+  background-color: orange;
+  box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+  opacity: 0.8;
+}
+@media only screen and (max-width: 768px){
+    .headerbar-main-searchbox {
+        display: flex;
+        flex-direction: column;
+        column-gap: 10px;
+        margin-right: 0px;
+    }
+    .headerbar-main{
+        padding-left: 0px;
+    }
+    .tileSet li {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }  
+    .FavClearButton{
+        width: 50%;
+        margin-left: 90px;
+    }
+    
+}
